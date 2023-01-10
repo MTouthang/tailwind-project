@@ -1,4 +1,4 @@
-### Shopify webpage clone
+### Paytm webpage clone
 -----
 A webpage clone of shopify
 
